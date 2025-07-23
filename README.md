@@ -1,4 +1,9 @@
 # Machine-Learning
+• Description: Solving classification and regression problems using machine learning models.
+• Technologies Used: Python (Pandas, Scikit-learn) and ML algorithms.
+• Key Responsibilities: Comparing the performance of different ML models.
+• Impact/Achievements: Achieved a 90% effectiveness rate for the ML models used.
+
 This repository contains the following Machine Learning (ML) projects implementing Scikit-learn library:
 
 1. binary_classifier: The performance of 4 different ML algorithms are compared to solve the binary classification problem. 
