@@ -23,13 +23,13 @@ d. Scaling the data.
 
 Third, the training and validation of the performance of 4 different ML algorithms are compared to solve the binary classification problem. The ML models are:
 
-Algorithm 1: **Logistic Regression**.
+• Algorithm 1: **Logistic Regression**.
 
-Algorithm 2: **Decision Tree Classifier**.
+• Algorithm 2: **Decision Tree Classifier**.
 
-Algorithm 3: **Random Forest Classifier**.
+• Algorithm 3: **Random Forest Classifier**.
 
-Algorithm 4: **Gradient Boosting Classifier**.
+• Algorithm 4: **Gradient Boosting Classifier**.
 
 Finally, the best algorithim is selected for this particular dataset.
 
@@ -41,9 +41,11 @@ This project studies the dataset of 1800 data matrices (small pictures represent
 ### Steps
 The dataset is imported from the sklearn library, hence, the exploratory data analysis (EDA) is ommited. Then, the performance of 3 different ML algorithms are compared:
 
-a. Algorithm 1: **KNeighborsClassifier**.
-b. Algorithm 2: **SVC**.
-c. Algorithm 3: **GaussianNB**.
+• Algorithm 1: **KNeighborsClassifier**.
+
+• Algorithm 2: **SVC**.
+
+• Algorithm 3: **GaussianNB**.
 
 Finally, the best algorithim is selected for this particular dataset.
 
@@ -65,14 +67,14 @@ d. Standarizating the data.
 
 Third, the training and validation of the performance of 5 different ML algorithms are compared. The ML models are:
 
-Algorithm 1: **Lasso (Linear regression with L1 regularization)**.
+• Algorithm 1: **Lasso (Linear regression with L1 regularization)**.
 
-Algorithm 2: **Ridge (Linear regression with L2 regularization)**.
+• Algorithm 2: **Ridge (Linear regression with L2 regularization)**.
 
-Algorithm 3: **DecisionTreeRegressor**.
+• Algorithm 3: **DecisionTreeRegressor**.
 
-Algorithm 4: **RandomForestRegressor**.
+• Algorithm 4: **RandomForestRegressor**.
 
-Algorithm 5: **GradientBoostingRegressor**.
+• Algorithm 5: **GradientBoostingRegressor**.
 
 Finally, the best algorithim is selected for this particular dataset. 
